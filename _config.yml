@@ -1,1 +1,40 @@
-theme: jekyll-theme-cayman
+<style>
+  body {
+  padding-top: 80px;
+  font-family: monaco, monospace;
+  background: #60D4FC;
+  background-size: cover;
+  font-family: Arial Black;
+}
+h1, h2, h3 {
+  display: inline-block;
+}
+h1 {
+  font-size: 35px
+  text-align: center;
+  background: #E5E4E2;
+}
+h2 {
+  font-size: 30px; 
+  background: #c0c0c0;
+}
+h3 {
+  font-size: 30px;
+  background: #c0c0c0;
+li {
+  font-family: comic sans ms;
+  font-size: 20px;
+  background: #c0c0c0;
+}
+span {
+  background: #fd0;
+}
+</style>
+<h1>WELCOME TO THE PURRFECT FANPAGE~</h1><br>
+<h2>Facts</h2>
+<p><li>Cats live on an average of 4-5 years in the wild</li>
+<li>Domestic cats live on an average of 15 years</li>
+<li>A cat's tongue can sense flavor and texture, which is why some cats may be picky about a kibble's shape</li>
+<li>There are at least different 58 cat breeds</li>
+</p><br>
+<h3>Cat</h3>
