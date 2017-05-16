@@ -1,6 +1,5 @@
 <style>
   body {
-  padding-top: 80px;
   font-family: monaco, monospace;
   background: #60D4FC;
   background-size: cover;
