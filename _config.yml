@@ -1,6 +1,7 @@
 <style>
   body {
-  font-family: monaco, monospace;
+  padding-top: 80px;
+  font-family: monospace;
   background: #60D4FC;
   background-size: cover;
   font-family: Arial Black;
